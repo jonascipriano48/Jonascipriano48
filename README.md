@@ -1,5 +1,5 @@
 ### Hello! Welcome to my profile, my name is Jonas. 👋
-<h2>Study back-end development!</h2>
+<h4>Study back-end development!</h4>
 
 <div style="display: inline_block"><br>
   
