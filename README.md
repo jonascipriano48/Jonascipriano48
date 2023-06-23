@@ -1,8 +1,20 @@
-### Hello! Welcome to my profile, my name is Jonas. 👋
+### Olá, seja bem vindo ao meu perfil, meu nome é Jonas.  👋
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Jonas-cs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Jonas-dotnet" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-          
+## Entre em contato: 
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonascipriano.48/)
+<br>
+E-mail: jonascipriano48@gmail.com
+
+
+![Mirelly GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonascipriano48&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascipriano48&layout=compact)
+
+## Estudando
+<div>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="imagem logo javascript">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="imagem logo node.js">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="imagem logo express">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="imagem logo mysql">
 </div>
