@@ -7,9 +7,9 @@
 E-mail: jonascipriano48@gmail.com
 
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonascipriano48&show_icons=true&theme=tokyonight)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonascipriano48&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonascipriano48&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascipriano48&layout=pie)](https://github.com/jonascipriano48/github-readme-stats)
 
 ## Estudando
 <div>
