@@ -2,7 +2,6 @@
 
 ## Entre em contato: 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonascipriano.48/)
 <br>
 E-mail: jonascipriano48@gmail.com
 
